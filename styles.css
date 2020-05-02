@@ -1,0 +1,109 @@
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body{
+    font-family: Helvetica Neue,arial;
+    font-size: 18px;
+    background-color: #b9ebcc;
+
+}
+
+
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #099f26;
+    font-family: Helvetica Neue,arial;
+
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: #099f26;
+    font-family: Helvetica Neue,arial;
+
+}
+
+.Web Devloper {
+  text-decoration: underline;
+}
+.main-text {
+    text-align: justify;
+    margin-bottom: 20px
+}
+
+.author-text {
+    font-size: 22px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 10px;
+
+}
+
+.container {
+    width: 1140px;
+    margin: 20px auto 0 auto;
+
+
+
+}
+
+.blog-post {
+
+    width: 75%;
+    float: left;
+    padding: 10px;
+
+    position: relative;
+}
+
+.author-box {
+    padding-top: 20px;
+   border-top: 1px solid #4a2525;
+}
+
+.htmllogo {
+  padding: 20px;
+}
+
+.other-post {
+
+    width: 25%;
+    float: left;
+}
+
+.author {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: center;
+  background-color: #faf4f4;
+
+}
+
+.contact {
+  margin-left:90%;
+  border-top: 10px;
+}
+.other {
+    margin-bottom: 40px;
+    border-top: 20px;
+}
+
+
+
+.blog-post img {
+    height: 150px;
+    width: auto;
+}
+.date {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+
+}
